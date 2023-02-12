@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> I am an aspiring cybersecurity Professional doing independent security research and training with the US Cyber Games
+ I am an aspiring cybersecurity Professional doing independent security research and training with the US Cyber Games
 
 I currently hold two certifications, The CompTIA ITF+ and CompTIA Network+ certifications
 
