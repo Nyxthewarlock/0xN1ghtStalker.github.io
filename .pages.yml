@@ -6,6 +6,7 @@ content:
   path: _posts
   fields:
       - { name: title, label: Title, type: string }
+      - { name: layout, type: string, hidden: true, default: post }
       
       
       
