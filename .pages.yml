@@ -20,7 +20,7 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: security blog config
+  - name: security_blog_config
     label: Jekyll config
     path: _config.yml
     type: file
