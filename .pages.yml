@@ -20,11 +20,6 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: security_blog_config
-    label: Jekyll config
-    path: _config.yml
-    type: file
-    fields:
       - name: title
         label: Website title
         type: string
