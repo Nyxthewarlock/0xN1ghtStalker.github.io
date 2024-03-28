@@ -2,4 +2,7 @@ media: assets
 content:
   -name: posts
   label: Posts
+  type: collection
+  path: _posts
+  fields:
   
