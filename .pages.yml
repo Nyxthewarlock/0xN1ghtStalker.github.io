@@ -1,1 +1,5 @@
-media: /assets/
+media: assets
+content:
+  -name: posts
+  label: Posts
+  
