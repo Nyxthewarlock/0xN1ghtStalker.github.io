@@ -5,4 +5,7 @@ content:
   type: collection
   path: _posts
   fields:
+      - { name: title, label: Title, type: string }
+      
+      
   
