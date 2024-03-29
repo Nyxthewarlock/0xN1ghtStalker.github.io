@@ -20,6 +20,11 @@ content:
         type: string
       - name: body
         label: Body
+        type: code
+        options:
+          language: C,C++,Java
+      - name: body
+        label: Body
         type: rich-text
       - name: title
         label: Website title
