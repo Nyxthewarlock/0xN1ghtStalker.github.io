@@ -3,6 +3,7 @@ content:
   - name: posts
     label: Posts
     type: collection
+    format: yaml-frontmatter
     path: '_posts'
     view:
       fields: [ title, published, date ]
