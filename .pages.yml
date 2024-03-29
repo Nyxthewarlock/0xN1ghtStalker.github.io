@@ -22,7 +22,7 @@ content:
         label: Body
         type: code
         options:
-          language: C,C++,Java
+         language: Python
       - name: body
         label: Body
         type: rich-text
