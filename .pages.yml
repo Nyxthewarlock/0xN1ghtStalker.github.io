@@ -1,6 +1,6 @@
 media: assets
 content:
-  - name: post
+  - name: posts
     label: Posts
     type: collection
     format: yaml-frontmatter
