@@ -22,7 +22,7 @@ content:
         label: Body
         type: code
         options:
-         language: Python
+         language: Java
       - name: body
         label: Body
         type: rich-text
