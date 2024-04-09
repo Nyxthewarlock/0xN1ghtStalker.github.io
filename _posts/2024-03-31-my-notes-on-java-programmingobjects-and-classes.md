@@ -51,5 +51,5 @@ public class AccountTest {
 
 ```
 
-this code then uses the account class we created earlier to instantiate an object called myAccount, reads the initial name stored in the object called myAccount which is null as we did not accept user input yet, uses the scanner util to take a name given by the user and store it in the object myAccount via input.nextLine(); then will display the name stored in the object myAccount via the printf method 
+this code then uses the account class we created earlier to create an object called myAccount,An object is the instantiation of a class so you can use it, reads the initial name stored in the object called myAccount which is null as we did not accept user input yet, uses the scanner util to take a name given by the user and store it in the object myAccount via input.nextLine(); then will display the name stored in the object myAccount via the printf method 
 
