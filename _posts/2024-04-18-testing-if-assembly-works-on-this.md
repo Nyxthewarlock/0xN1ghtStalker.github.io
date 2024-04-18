@@ -4,8 +4,8 @@ date: 2024-04-18
 title: testing if assembly works on this
 url: 0xN1ghtStalker.github.io
 ---
-``` assembly
-                             **************************************************************
+```assembly
+                                                        **************************************************************
                              *                          FUNCTION                          *
                              **************************************************************
                              undefined something_weird()
@@ -70,4 +70,5 @@ url: 0xN1ghtStalker.github.io
         004081ad e8 de fe        CALL       FUN_00408090                                     undefined FUN_00408090()
                  ff ff
         004081b2 5f              POP        EDI
+ 
 ```
