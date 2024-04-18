@@ -4,7 +4,7 @@ date: 2024-03-31
 title: my notes on java programming,objects and classes
 url: https://0xn1ghtstalker.github.io/
 ---
-```
+```java
 public class Account {
     private String name; // instance variable
     
@@ -22,7 +22,7 @@ public String getName() {
 
 this first file creates a public class named account and defines a method called setName which will be used later to set a name from user input as the name of an account via object instantiation
 
-```
+```java
 
 import java.util.Scanner;
 
