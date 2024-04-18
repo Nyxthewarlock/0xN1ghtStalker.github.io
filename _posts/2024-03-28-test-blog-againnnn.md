@@ -6,7 +6,7 @@ description: rahhhhh
 url: https://0xn1ghtstalker.github.io/
 ---
 rahhhhhhhhhhhhhh please workk
-```
+```java
 public class format {
 
 
