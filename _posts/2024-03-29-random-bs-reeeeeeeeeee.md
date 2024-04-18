@@ -5,7 +5,7 @@ title: random bs reeeeeeeeeee
 description: random bs reeeeeeeeeee
 url: https://0xn1ghtstalker.github.io/
 ---
-```
+```python
 def conversation() :
     print("Do you like coding in python? Answer yes or no")
     answer = input().lower().strip()
